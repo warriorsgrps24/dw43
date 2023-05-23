@@ -1,0 +1,36 @@
+{
+"OrderDetails": {
+"OrderHeader": {
+"OrderID": "1234",
+"OrderDate": "20230509"
+},
+"OrderLineDetails": {
+"LineID": "1",
+"ProdID": "0182860679000",
+"ProdDesc": "Type3 Laptop",
+"UnitPrice": "8000",
+"Quantity": "200"
+},
+"OrderLineDetails": {
+"LineID": "2",
+"ProdID": "0182860670019",
+"ProdDesc": "Type5 Laptop",
+"UnitPrice": "17000",
+"Quantity": "2000"
+},
+"OrderLineDetails": {
+"LineID": "2",
+"ProdID": "0182860670019",
+"ProdDesc": "Type5 Laptop",
+"UnitPrice": "17000",
+"Quantity": "2500"
+},
+"OrderLineDetails": {
+"LineID": "4",
+"ProdID": "0182860670025",
+"ProdDesc": "Type7 Laptop",
+"UnitPrice": "19000",
+"Quantity": "300"
+}
+}
+}
